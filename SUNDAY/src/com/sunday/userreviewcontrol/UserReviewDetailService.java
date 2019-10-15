@@ -6,8 +6,8 @@ import org.apache.log4j.Logger;
 
 
 import com.sunday.cmn.DTO;
-import com.sunday.userREVIEW.ReviewDao;
-import com.sunday.userREVIEW.ReviewVO;
+import com.sunday.userreview.ReviewDao;
+import com.sunday.userreview.ReviewVO;
 
 
 

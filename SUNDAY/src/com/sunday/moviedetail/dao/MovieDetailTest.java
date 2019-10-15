@@ -5,7 +5,7 @@ import java.util.List;
 import org.apache.log4j.Logger;
 
 import com.sunday.movie.domain.MovieVO;
-import com.sunday.userREVIEW.ReviewDao;
+//import com.sunday.userREVIEW.ReviewDao;
 
 //import com.hr.userREVIEW.ReviewDao;
 

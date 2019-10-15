@@ -1,6 +1,6 @@
 
-<%@page import="com.sunday.userREVIEW.SearchVO"%>
-<%@page import="com.sunday.userREVIEW.ReviewVO"%>
+<%@page import="com.sunday.userreview.SearchVO"%>
+<%@page import="com.sunday.userreview.ReviewVO"%>
 <%@page import="com.sunday.movie.domain.MovieVO"%>
 <%@page import="com.sunday.cmn.StringUtil"%>
 <%@page import="org.apache.log4j.Logger"%>

@@ -1,4 +1,4 @@
-package com.sunday.Moviedetailcontrol;
+package com.sunday.moviedetailcontrol;
 
 import java.util.List;
 

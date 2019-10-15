@@ -1,4 +1,4 @@
-package com.sunday.userREVIEW;
+package com.sunday.userreview;
 
 import com.sunday.cmn.DTO;
 

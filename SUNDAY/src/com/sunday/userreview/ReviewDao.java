@@ -1,4 +1,4 @@
-package com.sunday.userREVIEW;
+package com.sunday.userreview;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

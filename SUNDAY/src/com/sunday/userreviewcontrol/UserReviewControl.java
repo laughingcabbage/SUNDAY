@@ -17,8 +17,8 @@ import com.google.gson.Gson;
 
 import com.sunday.cmn.MessageVO;
 import com.sunday.cmn.StringUtil;
-import com.sunday.userREVIEW.ReviewVO;
-import com.sunday.userREVIEW.SearchVO;
+import com.sunday.userreview.ReviewVO;
+import com.sunday.userreview.SearchVO;
 
 
 
